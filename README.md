@@ -17,7 +17,7 @@ Includes all Stata scripts used throughout the workflow:
 
 - **Data Merging.do** – Merges, restructures, and appends the raw datasets
 - **Variable Creation.do** – Generates derived variables and transformations for modeling
-- **Models.do** – Runs econometric models analyzing the determinants of inflation prediction error
+- **Models.do** – Runs linear regression, LOGIT, and Multinomial LOGIT models analyzing the determinants of inflation prediction error
 
 ### 3. Project Paper
 - Erik Franke - Modeling Inflation Prediction Error.pdf**  
