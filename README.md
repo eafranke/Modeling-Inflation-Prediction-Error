@@ -37,3 +37,9 @@ Includes all Stata scripts used throughout the workflow:
 3. Run `Variable Creation.do` to construct all necessary variables.
 4. Run `Models.do` to execute regression analyses and produce output.
 5. Refer to the PDF for detailed explanations, methodology, and interpretation of results.
+
+## Contact
+
+**Erik Franke**  
+efranke@falcon.bentley.edu  
+Bentley University Academic Technology Center | Research Assistant
